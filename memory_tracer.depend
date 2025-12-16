@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1761227409 source:/home/bala/projet_c++/memory_tracer/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/mman.h>
+	<time.h>
+
